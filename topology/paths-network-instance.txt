@@ -1,0 +1,2 @@
+/network-instance
+/network-instance[name=default]

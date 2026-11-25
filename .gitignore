@@ -1,0 +1,6 @@
+# metadata Windows
+*:Zone.Identifier
+# folder runtime Containerlab
+clab-*/
+# file cadangan
+*.bak
