@@ -17,3 +17,4 @@
 
 Layanan L2: MAC-VRF mac-vrf-1, VNI 1000, EVI 111, route-target target:100:111.
 Semua nilai di atas adalah keputusan kelompok (paper tidak menyebutnya).
+| Payload iperf3 (Tahap 6) | 8000 byte (-l 8000) | M7 tidak menetapkan ukuran payload; jalur lab hanya meneruskan sekitar 500 paket per detik, sehingga 25 Mbps hanya tanpa loss dengan paket besar |

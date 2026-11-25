@@ -1,0 +1,4 @@
+run,mbps_sender,loss_persen,jitter_ms
+"/home/ardel/repro/data/traffic/pilot/run1.json",25.00046083199692,0,0.2042296277388165
+"/home/ardel/repro/data/traffic/pilot/run2.json",25.000476665586227,0,0.22071905130166075
+"/home/ardel/repro/data/traffic/pilot/run3.json",25.000422914798794,0,0.21315982380607576

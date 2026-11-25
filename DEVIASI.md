@@ -5,3 +5,4 @@
 | Docker | 20.10.21 | Docker Engine terbaru di dalam WSL Ubuntu | Docker Desktop tidak kompatibel dengan Containerlab di WSL (deploy gagal: Link not found); 20.10.21 tidak tersedia di Ubuntu ini |
 | Docker min-api-version | default | 1.24 (daemon.json) | agar Containerlab 0.42.0 terhubung ke Docker baru |
 | Spesifikasi host (Tahap 2, 3, 6) | VM VirtualBox 8 GB RAM, 4 core, Linux Mint 20.2 | WSL2 Ubuntu, batas memori 5 GB, swap 8 GB (laptop 8 GB) | RAM laptop terbatas; dipakai hanya untuk tahap membangun, Tahap 7 di mesin sesuai spesifikasi paper |
+| Ukuran paket UDP | tidak disebut di paper | 8000 byte | payload 1400 byte hanya sampai sekitar 5,6 Mbps (loss 77%) karena batas sekitar 500 paket per detik pada jalur lab |
